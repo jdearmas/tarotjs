@@ -2,3 +2,7 @@
 
 # ignore the docs directory
 docs/
+
+# ignore the images 
+imgs/
+src/imgs
