@@ -1,0 +1,4 @@
+# gitignore: files and directory for git to ignore
+
+# ignore the docs directory
+docs/
