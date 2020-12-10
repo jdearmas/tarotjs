@@ -1,2 +1,2 @@
- * tarotjs
+* tarotjs
 tarotjs is a program that will perform a tarot card reading.
